@@ -1,0 +1,10 @@
+{
+  "users": {
+    "developer@example.com": {
+      "name": "Developer",
+      "email": "developer@example.com",
+      "credits": 100000,
+      "createdAt": "2026-07-10T03:25:55.811Z"
+    }
+  }
+}

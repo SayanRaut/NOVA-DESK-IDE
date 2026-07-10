@@ -1,0 +1,37 @@
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+release/
+out/
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# User data
+reagen-data/
+reagen-config.json
+
+# Temporary files
+*.tmp
+*.swp
+
+# Native module rebuild
+build/
+prebuilds/
